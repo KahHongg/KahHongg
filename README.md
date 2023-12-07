@@ -1,7 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kah Hong</h1>
 <h3 align="center">"Economics and Data Science student excited to explore the world of programming!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
 - 🔭 I’m currently working on **Fencing Results Analytics with R**
