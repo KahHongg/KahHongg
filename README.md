@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kah Hong</h1>
-<h3 align="center">"Economics and Data Science student excited to explore the world of programming!</h3>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Kah Hong</h1>
+<h3 align="center">"A economics and data Science student excited to explore the world of programming!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
