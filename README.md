@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Kah Hong</h1>
-<h3 align="center">Enthusiastic Student Diving into the World of Programming</h3>
+<h3 align="center">A passionate student immersing themselves in the realm of programming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 - 🔭 I’m currently working on **Fencing Results Analytics with R**
