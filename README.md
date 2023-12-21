@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Interactive Dashboard of the Olympic Games using PowerBI**
 
-- 🌱 I’m currently learning **R Progamming, MySql, Python**
+- 🌱 I’m currently learning **R Progamming, MySql, Python and PowerBI**
 
 - 📫 How to reach me **tankahhong02@gmail.com**
 
