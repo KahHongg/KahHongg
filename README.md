@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Kah Hong</h1>
-<h3 align="center">A passionate student immersing themselves in the realm of programming</h3>
+<h3 align="center">A passionate student combining his love for sports with programming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working on **Tracking Performance in Elite Fencing with Elo Ratings and Machine Learning**
+- 🔭 I’m currently working on **Tracking Performance in Elite Fencing with Elo Ratings and Machine Learning with Python and PowerBI**
 
 - 🌱 I’m currently learning **R Progamming, MySql, Python and PowerBI**
 
