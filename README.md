@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Credit Risk Modelling**
 
-- 🌱 My skillset are: ** Python, MySQL, R Progamming and PowerBI**
+- 🌱 My skillset are: **Python, MySQL, R Progamming and PowerBI**
 
 - 📫 How to reach me **tankahhong02@gmail.com**
 
